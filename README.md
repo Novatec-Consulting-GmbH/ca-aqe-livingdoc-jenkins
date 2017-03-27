@@ -1,17 +1,10 @@
 
 
-### The LivingDoc Jenkins Plugin is now hosted by Jenkins-CI
+# The LivingDoc Jenkins Plugin is now hosted by Jenkins-CI
 Please check the new [repository]https://github.com/jenkinsci/livingdoc-reports-plugin) for updates and new features.
 This repository will no more be maintained
 
 
-### Licensing
+#### Licensing
 testIT LivingDoc is licensed under [GNU General Public License, Version 3.0](http://www.gnu.org/licenses/gpl-3.0.txt).
 
-
-### Sponsoring
-testIT LivingDoc is mainly developed by [NovaTec Solutions GmbH](http://www.novatec-gmbh.de/), a German consultancy firm that drives quality in software development projects.
-
-### Origin
-testIT LivingDoc is a fork of the great but deprecated GreenPepper.
-We thank the GreenPepper Team from Pyxis for their support in the first migration stages!
