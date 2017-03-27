@@ -1,25 +1,9 @@
-[![License](https://img.shields.io/badge/License-GNU%20General%20Public%20License%203.0-brightgreen.svg)](http://www.gnu.org/licenses/gpl-3.0.txt)
-[![Gitter](https://img.shields.io/badge/Gitter-join%20chat-brightgreen.svg)](https://gitter.im/testIT-LivingDoc/livingdoc-jenkins)
-[![Build Status](https://travis-ci.org/testIT-LivingDoc/livingdoc-jenkins-reports.svg?branch=master)](https://travis-ci.org/testIT-LivingDoc/livingdoc-jenkins-reports)
 
 
-![testIT LivingDoc Reports](documentation/images/livingdoc-reports-jenkins-chart.png)
+### The LivingDoc Jenkins Plugin is now hosted by Jenkins-CI
+Please check the new [repository]https://github.com/jenkinsci/livingdoc-reports-plugin) for updates and new features.
+This repository will no more be maintained
 
-LivingDoc is a powerful tool that supports implementing collaboration driven methods like Behavior Driven Development or Specification By Example. Due to its smart integration into Atlassian Confluence the comfortable editing possibilities of confluences can be used to write the feature specifications and the acceptance tests.
-
-The jenkins reports plugin parses the execution results of LivingDoc, prepares them to be displayed in jenkins and when needed it publishes them to Confluence
-
-
-### Documentation
-The [user documentation](https://testit-livingdoc.atlassian.net/wiki) provides in-depth documentation on all the features.
-If you have further questions please get in touch with us.
-
-### Contribute
-
-Check the [Contributing](https://testit-livingdoc.atlassian.net/wiki/display/CURDOC/Contributing) documentation.
-
-### Issues
-If you experience any issues please use GitHub's [issue](https://github.com/testIT-LivingDoc/livingdoc-jenkins/issues) system to tell us about it!
 
 ### Licensing
 testIT LivingDoc is licensed under [GNU General Public License, Version 3.0](http://www.gnu.org/licenses/gpl-3.0.txt).
