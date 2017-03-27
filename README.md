@@ -1,7 +1,7 @@
 
 
 # The LivingDoc Jenkins Plugin is now hosted by Jenkins-CI
-Please check the new [repository]https://github.com/jenkinsci/livingdoc-reports-plugin) for updates and new features.
+Please check the new [repository](https://github.com/jenkinsci/livingdoc-reports-plugin) for updates and new features.
 This repository will no more be maintained
 
 
